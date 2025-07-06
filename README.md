@@ -71,7 +71,7 @@ I’m passionate about leveraging modern technologies to build efficient, secure
 
 ## 🎓 Education
 
-**Physics — Bandung Institute of Technology (ITB), 1996–2001**
+**Physics — Bandung Institute of Technology (ITB)**
 
 ---
 
