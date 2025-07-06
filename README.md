@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm Heriyanto Binduni
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hbinduni&style=flat-square&color=blue)
@@ -80,11 +79,9 @@ I’m passionate about leveraging modern technologies to build efficient, secure
 
 Available for consulting, SaaS architecture, or enterprise automation projects.
 
-- [LinkedIn](https://www.linkedin.com/in/binduni/)
+- [LinkedIn](https://www.linkedin.com/in/binduni/)  
 - 📧 hbinduni@gmail.com
 
 ---
 
 > “Passionate about building intelligent systems that drive real business value.”
-
-````
